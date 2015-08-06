@@ -122,16 +122,18 @@ iframe {
 }
 .header .btn {
   margin-top: 10px;
+  margin-bottom: 20px;
   font-weight: bold;
 }
 .header .profile-image {
   margin-right: 30px;
+  margin-top: 20px;
 }
 .header .profile-content .name {
   color: #49515a;
   font-size: 38px;
   margin-bottom: 5px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .header .profile-content .desc {
   color: #778492;
